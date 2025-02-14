@@ -28,7 +28,7 @@ const Footer = (props: Props) => {
             <Link
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/anitkrjha"
+              href="https://github.com/DeveHk"
               className="mr-4 hover:underline sm-mr-6"
             >
               <Github size={24} />
@@ -38,7 +38,7 @@ const Footer = (props: Props) => {
             <Link
               rel="noopener noreferrer"
               target="_blank"
-              href="https://linkedin.in/in/anitjha"
+              href="https://www.linkedin.com/in/harshkumarnsut"
               className="hover:underline"
             >
               <Linkedin size={24} />
